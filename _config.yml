@@ -27,9 +27,9 @@ urls:
 author_logo: profile.png
 author: 고구마깡
 author_bio: 안녕하세요 저는 고구마깡입니다
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
+author_email: "libra981002@naver.com"
+author_location: Korea
+author_website_url: "https://github.com/vcloud98"
 typewrite-text: 노력을 통해 성장하는 개발자가 되고싶습니다
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
